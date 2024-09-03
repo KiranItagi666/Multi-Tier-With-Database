@@ -55,7 +55,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: kiranondocker/bankapp:latest
+        image: kviondocker/bankapp:latest
         ports:
         - containerPort: 8080
         env:
